@@ -1,0 +1,10 @@
+[debug] > Exec(checkAndZipSubmission, None, None)
+[debug] Evaluating tasks: checkAndZipSubmission
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 5 Scala sources to C:\Users\lysso\Desktop\PPL\Assignments\project1\target\scala-2.12\classes ...
+[info] Non-compiled module 'compiler-bridge_2.12' for Scala 2.12.10. Compiling...
+[info]   Compilation completed in 8.755s.
+[info] done compiling
+[debug] Forcing garbage collection...
+[success] Total time: 13 s, completed Mar 2, 2021, 12:48:17 PM
+[debug] > Exec(idea-shell, None, None)
